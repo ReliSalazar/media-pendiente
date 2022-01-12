@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Permanent+Marker&display=swap');
+
+:root {
+  --dark: #222;
+  --darkGray: #555;
+  --gray: #aaa;
+  --softGray: #eee;
+  --white: #fff;
+  --blue: #00acc1;
+  --red: #de3c4b;
+  --yellow: #ea9010;
+  --purple: #81559b;
+  --green: #74a57f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: var(--softGray);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+p {
+  margin: 0;
+  color: var(--white);
+}
+
+.container {
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  background-color: var(--dark);
+}
+
+.column {
+  flex-grow: 1;
+  border: 2px solid var(--white);
+  padding: 1rem 2rem;
+}
+
+.title {
+  font-family: 'Permanent Marker', cursive;
+  color: var(--white);
+  font-size: 1.5rem;
+}
+.title:after {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 100%;
+  margin-top: 1rem;
+  background-color: var(--white);
+}
+
+.items {
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.games {
+  color: var(--blue);
+}
+.games::after {
+  background-color: var(--blue);
+}
+
+.books {
+  color: var(--yellow);
+}
+.books::after {
+  background-color: var(--yellow);
+}
+
+.manga {
+  color: var(--purple);
+}
+.manga::after {
+  background-color: var(--purple);
+}
+
+.anime {
+  color: var(--red);
+}
+.anime::after {
+  background-color: var(--red);
+}
+
+.movies {
+  color: var(--green);
+}
+.movies::after {
+  background-color: var(--green);
+}
+
+.finished {
+  color: var(--gray);
+}
+.finished::after {
+  background-color: var(--gray);
+}
