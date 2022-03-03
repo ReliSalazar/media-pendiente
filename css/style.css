@@ -19,7 +19,8 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: var(--softGray);
+  /* background-color: var(--softGray); */
+  background-color: var(--dark);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -36,7 +37,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  background-color: var(--dark);
+  /* background-color: var(--dark); */
 }
 
 .column {
