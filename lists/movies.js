@@ -1,5 +1,6 @@
 const movies = [
   "the life of bryan",
+  "Hereditary",
   "knives out",
   "contact 1997",
   "Bo Burnham",

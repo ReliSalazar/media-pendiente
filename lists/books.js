@@ -1,4 +1,8 @@
 const books = [
+  "Desobediencia Civil - Henry David Thoreau",
+  "El Mundo de Sofia",
+  "Ten acts of magic - Los Horcones",
+  "El Aleph - jorge luis borges",
   "Otras inquisiciones - jorge luis borges",
   "Las peras del olmo - octavio paz",
   "Fragmentos de un discurso amoroso - roland barthes",
@@ -33,7 +37,6 @@ const books = [
   "Robert Jordan - La Rueda del Tiempo 01 - El Ojo del Mundo",
   "Camus - El Mito de Sisifo",
   "Camus - La Peste",
-  "El Mundo de Sofia",
   "Dialogos de Platón 01",
   "El mundo es Matemático 01",
   "Tratado de la Tolerancia - Voltaire",

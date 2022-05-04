@@ -2,5 +2,14 @@ const finished_22 = [
   "Encanto",
   "Toree 3D",
   "Toree 2",
-  "Belle (2021)"
+  "Belle (2021)",
+  "Omori",
+  "Deepest Sword",
+  "Shotgun Witch",
+  "Berserk anime (1997)",
+  "Qué es conducta? - Esteve Freixa I Baqué",
+  "Walen - Henry David Thoreau",
+  "midsommar (2019)",
+  "The Good Time Garden",
+  "Portal Reloaded",
 ];

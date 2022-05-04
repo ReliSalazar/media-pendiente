@@ -1,6 +1,6 @@
 const games = [
   "Hades",
-  "A hat in time dlc",
+  "Cross Code DLC",
   "Gato roboto",
   "Darkest Dungeon",
   "Psychonauts",
@@ -8,4 +8,5 @@ const games = [
   "Loop Hero",
   "Momodora",
   "Castle in the darkness",
+  "A hat in time dlc",
 ];
