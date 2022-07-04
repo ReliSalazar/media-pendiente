@@ -12,4 +12,9 @@ const finished_22 = [
   "midsommar (2019)",
   "The Good Time Garden",
   "Portal Reloaded",
+  "Spencer (2021)",
+  "Steven Universe The Movie (2019)",
+  "Ready Player One (2018)",
+  "Gato Roboto",
+  "Momodora - Reverie under the moonlight",
 ];
