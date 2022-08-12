@@ -7,4 +7,5 @@ const games = [
   "Loop Hero",
   "Castle in the darkness",
   "A hat in time dlc",
+  "cursed to golf",
 ];
