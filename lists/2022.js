@@ -27,4 +27,6 @@ const finished_22 = [
   "Frog Fractions",
   "bolsa de leche dentro de otra bolsa de leche",
   "Octopath Traveler",
+  "Megamente",
+  "Lucy",
 ];
